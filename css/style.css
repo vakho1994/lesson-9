@@ -1,0 +1,31 @@
+/*.box1 {
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px;
+}
+.box {
+	height: 450px;
+	display: flex;
+	flex-wrap: wrap;
+	horizontal position
+	justify-content: center;
+	/*vertical position
+	align-items: center;
+	background-color: purple;
+	flex-direction: row-reverse ;
+
+}*/
+.img {
+	width: 200px;
+}
+.box {
+	width: 600px;
+	background-color: purple;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.box1 {
+	margin: 10px;
+}
